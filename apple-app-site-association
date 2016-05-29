@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "XE7HU376NT.com.maglevitylabs.jobpack",
+                "paths": [ "/jobpack/*" ]
+            },
+            {
+                "appID": "XE7HU376NT.com.maglevitylabs.jobpack",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+}
